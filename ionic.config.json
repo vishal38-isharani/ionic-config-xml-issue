@@ -1,5 +1,7 @@
 {
   "name": "config-xml",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
